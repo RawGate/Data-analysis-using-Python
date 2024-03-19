@@ -1,0 +1,19 @@
+State: N.Y., Total Sales: 406473807.0
+State: Ill., Total Sales: 325484453.0
+State: Nev., Total Sales: 205296684.0
+State: Fla., Total Sales: 185847944.0
+State: Calif., Total Sales: 175769227.0
+State: D.C., Total Sales: 161413973.0
+State: Texas, Total Sales: 46417263.0
+State: Ind., Total Sales: 34232062.0
+State: Mich., Total Sales: 33452435.0
+State: Ga., Total Sales: 32788750.0
+State: N.J., Total Sales: 29437843.0
+State: Tenn., Total Sales: 27463743.0
+State: N.C., Total Sales: 24268160.0
+State: Pa., Total Sales: 19379153.0
+State: Mass., Total Sales: 17063477.0
+State: Ore., Total Sales: 16111510.0
+State: Fla. , Total Sales: 14978103.0
+State: Colo., Total Sales: 14362103.0
+State: Va., Total Sales: 13102742.0
